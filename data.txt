@@ -1,0 +1,3 @@
+Name: TomásAldea   
+Age: 30
+Favorite Color: red
